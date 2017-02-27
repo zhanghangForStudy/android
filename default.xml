@@ -5,8 +5,7 @@
            fetch=".." />
 
   <remote name="zhanghang"
-          fetch="https://github.com/"
-          revision="refs/tags/android-7.1.1_r6"/>
+          fetch="https://github.com/"/>
 
   <default revision="refs/tags/android-7.1.1_r17"
            remote="aosp"
